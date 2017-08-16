@@ -16,7 +16,7 @@
     <email>info@civicrm.org</email>
   </maintainer>
   <releaseDate>2016-08-16</releaseDate>
-  <version>1.1.1.updatedSDK</version>
+  <version>1.2updatedSDK</version>
   <develStage>stable</develStage>
   <compatibility>
     <ver>4.4</ver>
